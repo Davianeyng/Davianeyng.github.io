@@ -1,5 +1,5 @@
 # Pixel Art Maker Project
-[!](Finally.jpg)
+[![(Finally.jpg)]
 
 ## Table of Contents
 
