@@ -1,10 +1,10 @@
 # Pixel Art Maker Project
-[![(Finally.jpg)]
 
 ## Table of Contents
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+* [Repository](#Repository)
 
 ## Instructions
 
@@ -16,4 +16,6 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-Link to repository [Davianey's ALC Pixel Project](https://davianeyng.github.io/).
+## Repository
+
+You can view the project pixel grid from here => [Davianey's ALC Pixel Project](https://davianeyng.github.io/).
